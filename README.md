@@ -3,7 +3,7 @@
 $${Acxer\space /\space Alex\space /\space Guest\space !}$$
 $${\color{gray}Malaysian\space +\space Korean\space :\space Artist,\space Animator,\space Graphic\space Designer,\space and\space a\space dinosaur.}$$
 
-$${c+h,\space w2i,\space interact\space =\space freely.\space (unless\space i\space have\space dni.)}$$
+$${c+h,\space w2i/public\space chat,\space interact\space =\space freely.\space (unless\space i\space have\space dni.)}$$
 
 $${︵\space sys\space .\space iwcare(sometimes)\space ︵}$$
 
