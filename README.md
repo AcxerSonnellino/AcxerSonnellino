@@ -28,8 +28,10 @@ $${strawpage\space on\space wip/remaking.}$$
   <img src="https://github.com/AcxerSonnellino/wip/blob/5c8cea6f5083673765ff352381afdf09ee629e64/5012c46d05bf710a980d5e3eb134547f.jpg" alt="Centered Image" width="400">
 </p>
 
-$${\color{red}You\space really\space dont\space know\space when\space to\space give\space up,\space dont\space you?!}$$
-$${\color{blue}Heal\space your\space wounds,\space Dante.}$$
-$${\color{gray}September\space 30th\space 1998.\space The\space day\space i\space never\space forget.}$$
-$${\color{cyan}of\space course\space im\space a\space machine,\space Lt.\space what\space else\space do\space you\space think\space i\space am?}$$
-$${\color{skyblue}Be\space strong,\space always\space be\space strong.}$$
+$${\color{red}"You\space really\space dont\space know\space when\space to\space give\space up,\space dont\space you?!"}$$
+$${\color{blue}"Heal\space your\space wounds,\space Dante."}$$
+$${\color{gray}"September\space 30th\space 1998.\space The\space day\space i\space never\space forget."}$$
+$${\color{cyan}"Of\space course\space im\space a\space machine,\space Lt.\space what\space else\space do\space you\space think\space i\space am?"}$$
+$${\color{skyblue}"Be\space strong,\space always\space be\space strong."}$$
+
+![](https://github.com/AcxerSonnellino/wip/blob/c316658d25920a54c4fdb7553db7739ab3867150/tumblr_ba8e24dfefa6bd46cc9476fd3598619e_131535b3_1280.png)
