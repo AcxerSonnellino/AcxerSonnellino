@@ -8,6 +8,10 @@ $${c+h,\space w2i,\space interact\space =\space freely.\space (unless\space i\sp
 $${︵\space sys\space .\space iwcare(sometimes)\space ︵}$$
 
 
+$${\color{red}i\space hate\space nonsharing\space yumeshipper\space but\space I\space respect\space and\space still\space love\space your\space yume!!}$$
+
+
+
 $${\color{blue}my\space main\space favourite\space character/kin\space (i\space have\space more\space but\space couldnt\space fit\space them\space all-)}$$
 <p align="center">
   <img src="https://github.com/AcxerSonnellino/wip/blob/32bd3a34991c68998940742831cc7cb4b3e140a2/Untitled239_20260604153628.png" alt="Centered Image" width="500">
@@ -18,3 +22,16 @@ $${\color{blue}my\space main\space favourite\space character/kin\space (i\space 
 <p align="center"> <a href=https://acxersaurus.atabook.org/>ata</a>      ᯓ★      <a href=https://en.pronouns.page/@Acxersaurus>pronous.page</a>
   
 $${strawpage\space on\space wip/remaking.}$$
+
+
+<table align="center">
+  <tr>
+    <td><img src="image1.png" alt="Left" width="250"/></td>
+    <td><img src="image2.png" alt="Right" width="250"/></td>
+  </tr>
+  <tr align="center">
+    <td><b>Left Caption</b></td>
+    <td><b>Right Caption</b></td>
+  </tr>
+</table>
+
