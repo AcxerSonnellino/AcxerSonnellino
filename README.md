@@ -35,11 +35,26 @@ $${strawpage\space on\space wip/remaking.}$$
 
 
 <p align="center">
-  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/02181b41f3c7cc45781633d89489eaa787908f59/cc263e4ffb50543ddad6ad633ec5bee8.webp.jpg" alt="Centered Image" width="500">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/466198f3f001323aff44d529f02738c3b7b7ac06/f36d09b5c5c68d1065ea654d78f9e8fb.webp.jpg" width="400" />
+  <img src="" width="400" />
 </p>
 <p align="center">
-  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/1ce03fedd7b0f1f324c7eb0a43d681ec77df557f/1426e4b725fa9f8403fcf0e711e70c5c.webp.jpg" alt="Centered Image" width="500">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/466198f3f001323aff44d529f02738c3b7b7ac06/bd488bfc9b4bcec4a885819d30a0f16a.webp.jpg" width="400" />
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/466198f3f001323aff44d529f02738c3b7b7ac06/af89de4193ba86a9231568233735dcc2.webp.jpg" width="400" />
 </p>
 <p align="center">
-  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/0c09387a4367f6ee88ecd7edc3ef5d8e55715646/78226a8d2ecbd6210dbe9db079a243d9.webp.jpg" alt="Centered Image" width="500">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/466198f3f001323aff44d529f02738c3b7b7ac06/76ffe6b7c38d5abd1599bbe175592cb7.webp.jpg" width="400" />
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/66f7cb9f670a314d6da76248b7f581eee2192729/83d62b50712564df532406866e0e4466.webp.jpg" width="400" />
+</p>
+<p align="center">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/466198f3f001323aff44d529f02738c3b7b7ac06/96389275d27aa0dee76dccd7d954d036.webp.jpg" width="400" />
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/466198f3f001323aff44d529f02738c3b7b7ac06/78226a8d2ecbd6210dbe9db079a243d9.webp.jpg" width="400" />
+</p>
+<p align="center">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/466198f3f001323aff44d529f02738c3b7b7ac06/0ba75510b8e4cb207729c0e0115217d1.webp.jpg" width="400" />
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/466198f3f001323aff44d529f02738c3b7b7ac06/1426e4b725fa9f8403fcf0e711e70c5c.webp.jpg" width="400" />
+</p>
+<p align="center">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/17d8f196210f563b1cb9e444d2876ca4ac0cf39c/97fce4916fcb0adae7e064b16082fd97.webp.jpg" width="400" />
+  <img src="" width="400" />
 </p>
