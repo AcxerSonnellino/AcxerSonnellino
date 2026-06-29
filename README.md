@@ -1,13 +1,14 @@
-$${\color{darkgrey}⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘}$$
+$$\color{#A7DBDB} \text{⊹ ࣪ " αρσℓσgιzє ιƒ тнєяє'ѕ ησ ρяєραяαтιση ƒσя тнιѕ ραяту. " ˖ ໒꒱}$$
+
 <p align="center">
-  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/4044f1d0e08d0f96f1dab372ba3a0701cf5af71e/2d4875bf8bed5757fa743a1a77f3a4bc.gif" alt="Description" width="600">
+  <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/13e4d27bf3a70feebb5c2cdb0c0ab7c8c01c6f89/Untitled245_20260629230406.png" alt="Description" width="700">
 </p>
 
 
-$${\color{lavender}Acxer\space /\space Alex\space /\space Guest\space !}$$
-$${\color{steelblue}Malaysian\space +\space Korean\space :\space Artist,\space Animator,\space Graphic\space Designer,\space and\space a\space dinosaur.}$$
+$$\color{#C7CEBE} \text{⤷ ゛ ᥲᥣᥱx ' ᥲᥴxᥱr ' gυᥱst  ˎˊ˗}$$
+$$\color{#B8C3B3} \text{˖ ᡣ𐭩 ⊹     ࣪mᥲᥣᥲყsιᥲᥒ + ƙσɾҽαɳ . ᥲᥒ ᥲrtιst , ᥲᥒιmᥲtor, dιᥒosᥲυr !     ౨ৎ˚₊}$$
+$$\color{#8eb6b9} \text{જ⁀➴⋆.˚ ᥴ+h , w2ι / ρυbᥣιᥴ ᥴhᥲt = frᥱᥱᥣყ! . υᥒᥣᥱss hᥲvᥱ dᥒι .  ⋆‧°𓏲ּ𝄢}$$
 
-$${c+h,\space w2i/public\space chat,\space interact\space =\space freely.\space (unless\space i\space have\space dni.)}$$
 
 $${\color{slategray}︵\space sys\space .\space iwcare(sometimes)\space ︵}$$
 
