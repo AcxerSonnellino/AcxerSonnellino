@@ -1,4 +1,5 @@
-$$\color{#A7DBDB} \text{⊹ ࣪ " αρσℓσgιzє ιƒ тнєяє'ѕ ησ ρяєραяαтιση ƒσя тнιѕ ραяту. " ˖ ໒꒱}$$
+$$\color{#C7CEBE} \text{⊹ ࣪ " tᥲkᥱ somᥱ of thιs, ιt'ᥣᥣ ᥴᥲᥣm ყoυ dowᥒ. " ˖ ໒꒱}$$
+$$\color{#8eb6b9}{\text{⭑𓂃 " 𝚈𝐨𝚞 𝐦𝚒𝐠𝚑𝐭 𝚊𝐬 𝚠𝐞𝚕𝐥 𝚓𝐮𝚜𝐭 𝚌𝐨𝚖𝐞 𝚊𝐫𝚘𝐮𝚗𝐝. " .ೀ}}$$
 
 <p align="center">
   <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/13e4d27bf3a70feebb5c2cdb0c0ab7c8c01c6f89/Untitled245_20260629230406.png" alt="Description" width="700">
@@ -6,20 +7,19 @@ $$\color{#A7DBDB} \text{⊹ ࣪ " αρσℓσgιzє ιƒ тнєяє'ѕ ησ ρя
 
 
 $$\color{#C7CEBE} \text{⤷ ゛ ᥲᥣᥱx ' ᥲᥴxᥱr ' gυᥱst  ˎˊ˗}$$
-$$\color{#B8C3B3} \text{˖ ᡣ𐭩 ⊹     ࣪mᥲᥣᥲყsιᥲᥒ + ƙσɾҽαɳ . ᥲᥒ ᥲrtιst , ᥲᥒιmᥲtor, dιᥒosᥲυr !     ౨ৎ˚₊}$$
+
+$$\color{#B8C3B3} \text{˖ ᡣ𐭩 ⊹     ࣪𝚖𝐚𝚕𝐚𝚢𝐬𝚒𝐚𝚗 + 𝚔𝐨𝚛𝐞𝚊𝐧 . 𝐚𝚗 𝐚𝚛𝐭𝚒𝐬𝚝, 𝚊𝐧𝚒𝐦𝚊𝐭𝚘𝐫, 𝐝𝚒𝐧𝚘𝐬𝚊𝐮𝚛 !     ౨ৎ˚₊}$$
+
 $$\color{#8eb6b9} \text{જ⁀➴⋆.˚ ᥴ+h , w2ι / ρυbᥣιᥴ ᥴhᥲt = frᥱᥱᥣყ! . υᥒᥣᥱss hᥲvᥱ dᥒι .  ⋆‧°𓏲ּ𝄢}$$
 
 
-$${\color{slategray}︵\space sys\space .\space iwcare(sometimes)\space ︵}$$
+$$\color{#79a8ac}{\text{︵ 𝕤𝕪𝕤 . 𝕚𝕨𝕔𝕒𝕣𝕖 𝕨𝕙𝕖𝕟 𝕟𝕖𝕖𝕕𝕖𝕕. ︵}}$$
 
 
-$${\color{lightblue}i\space dislike\space nonsharing\space yumeshipper\space but\space I\space respect\space and\space still\space love\space your\space yume!!}$$
-$${Im\space a\space sharing\space yumeshipper!\space Also\space a\space poly\space yumeshipper\space 
-(means\space i\space yume\space with\space different\space fandom\space characters,\space ok?\space ok)}$$
+$$\color{#4d7f90}{\text{⋆✴︎˚｡⋆ . 𝚒 𝐝𝚒𝐬𝚕𝐢𝚔𝐞 𝚗𝐨𝚗𝐬𝚑𝐚𝚛𝐢𝚗𝐠 𝚢𝐮𝚖𝐞𝚜𝐡𝚒𝐩𝚙𝐞𝚛 𝐛𝚞𝐭 𝚒'𝚕𝐥 𝚜𝐭𝚒𝐥𝚕 𝐥𝚘𝐯𝚎 𝐲𝚘𝐮𝚛 𝐲𝚞𝐦𝚎 ! ⋆˚࿔}}$$
 
+$$\color{#3d6585}{\text{.☘︎ ݁˖ ᥲ shᥲrιᥒg + ρoᥣყ ყυmᥱshιρρᥱr ( kᥒowᥒ ᥲs ყυmᥱ wιth dιffᥱrᥱᥒt fᥲᥒdom f/o ) ˖᯽ ݁˖· ─ }}$$
 
-
-$${• ┈ • ┈ • ୨୧ • ┈ • ┈ •}$$
 
 
 
