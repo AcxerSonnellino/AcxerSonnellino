@@ -2,6 +2,11 @@ $$\color{#C7CEBE} \text{⊹ ࣪ " tᥲkᥱ somᥱ of thιs, ιt'ᥣᥣ ᥴᥲᥣ
 $$\color{#8eb6b9}{\text{⭑𓂃 " 𝚈𝐨𝚞 𝐦𝚒𝐠𝚑𝐭 𝚊𝐬 𝚠𝐞𝚕𝐥 𝚓𝐮𝚜𝐭 𝚌𝐨𝚖𝐞 𝚊𝐫𝚘𝐮𝚗𝐝. " .ೀ}}$$
 
 <p align="center">
+  <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/a2456978f91b77ad5f418cad1ce4b223e0374217/tumblr_inline_pdzcjb2kTA1v11djx_500.gif" width="100" />
+  <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/a2456978f91b77ad5f418cad1ce4b223e0374217/tumblr_inline_pdzcepDGgt1v11djx_500.gif" width="85" />
+</p>
+
+<p align="center">
   <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/13e4d27bf3a70feebb5c2cdb0c0ab7c8c01c6f89/Untitled245_20260629230406.png" alt="Description" width="700">
 </p>
 
@@ -36,6 +41,11 @@ $$\color{#4d7f90}{\text{゛ ᢉ𐭩 ' 𝚑𝐚𝚟𝐞 𝚖𝐨𝚛𝐞 𝚋𝐮
 <p align="center"> <a href=https://acxersaurus.atabook.org/>ata</a>      <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/d04afeb1e18bcba73efc02e6a6562bf8c46512e7/47d3d679.gif"</a>   <a href=https://pronouns.cc/@Acxersaurus>pronous.cc</a>
   
 $$\color{#79a8ac} \text{.ೃ࿔ 𝕤𝕥𝕣𝕒𝕨𝕡𝕒𝕘𝕖 𝕠𝕟 𝕨𝕚𝕡 / 𝕣𝕖𝕞𝕒𝕜𝕚𝕟𝕘 ── .✦}$$
+
+<p align="center">
+  <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/a2456978f91b77ad5f418cad1ce4b223e0374217/tumblr_pe3ahvHP4n1xsk4lxo2_100.png" width="100" />
+  <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/a2456978f91b77ad5f418cad1ce4b223e0374217/92b0c254.png" width="100" />
+</p>
 
 
 <p align="center">
