@@ -1,3 +1,6 @@
+<p align="center">
+  $$\color{#BD9FCB} \text{any}$$ <a href=https://github.com/AcxerSonnellino/>alex</a> $$\color{#BD9FCB} \text{text u want to put}$$
+
 $$\color{#C7CEBE} \text{⊹ ࣪ " tᥲkᥱ somᥱ of thιs, ιt'ᥣᥣ ᥴᥲᥣm ყoυ dowᥒ. " ˖ ໒꒱}$$
 $$\color{#8eb6b9}{\text{⭑𓂃 " 𝚈𝐨𝚞 𝐦𝚒𝐠𝚑𝐭 𝚊𝐬 𝚠𝐞𝚕𝐥 𝚓𝐮𝚜𝐭 𝚌𝐨𝚖𝐞 𝚊𝐫𝚘𝐮𝚗𝐝. " .ೀ}}$$
 
