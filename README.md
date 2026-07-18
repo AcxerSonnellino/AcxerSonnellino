@@ -31,7 +31,7 @@ $$\color{#B8C3B3} \text{ ݁ ˖Ი𐑼ֶָ֢ . mყ mᥲιᥒ fᥲvoυrιtᥱ / k
 $$\color{#4d7f90}{\text{゛ ᢉ𐭩 ' 𝚑𝐚𝚟𝐞 𝚖𝐨𝚛𝐞 𝚋𝐮𝚝 𝐰𝚒𝐥𝚕 𝐚𝚍𝐝𝚎𝐝 𝚒𝐧 𝚜𝐭𝚛𝐚𝚠𝐩𝚊𝐠𝚎 , ⭑.ᐟ}}$$
 
 <p align="center">
-  <img src="https://github.com/AcxerSonnellino/wip/blob/32bd3a34991c68998940742831cc7cb4b3e140a2/Untitled239_20260604153628.png" alt="Centered Image" width="500">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/7feff77225f63ab841b0eb5f06f888bb6676ed82/Untitled245_20260718150717.png" alt="Centered Image" width="700">
 </p>
 
 
