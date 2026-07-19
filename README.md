@@ -40,7 +40,10 @@ $$\color{#4d7f90}{\text{゛ ᢉ𐭩 ' 𝚑𝐚𝚟𝐞 𝚖𝐨𝚛𝐞 𝚋𝐮
 
 
 
-<p align="center"> <a href=https://acxersaurus.atabook.org/>ata</a>      <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/d04afeb1e18bcba73efc02e6a6562bf8c46512e7/47d3d679.gif"</a>   <a href=https://pronouns.cc/@Acxersaurus>pronous.cc</a>
+<p align="center"> <a href=https://acxersaurus.atabook.org/>ata</a>      <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/d04afeb1e18bcba73efc02e6a6562bf8c46512e7/47d3d679.gif"</a>   <a href="https://pronouns.cc/@Acxersaurus">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/07de4738c03359bd48f4b54ab2a263a6508f6f60/Untitled245_20260719100352.png" width="200">
+</a>
+
   
 $$\color{#79a8ac} \text{.ೃ࿔ 𝕤𝕥𝕣𝕒𝕨𝕡𝕒𝕘𝕖 𝕠𝕟 𝕨𝕚𝕡 / 𝕣𝕖𝕞𝕒𝕜𝕚𝕟𝕘 ── .✦}$$
 
