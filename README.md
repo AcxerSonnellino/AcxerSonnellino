@@ -2,6 +2,10 @@ $$\color{#C7CEBE} \text{⊹ ࣪ " tᥲkᥱ somᥱ of thιs, ιt'ᥣᥣ ᥴᥲᥣ
 $$\color{#8eb6b9}{\text{⭑𓂃 " 𝚈𝐨𝚞 𝐦𝚒𝐠𝚑𝐭 𝚊𝐬 𝚠𝐞𝚕𝐥 𝚓𝐮𝚜𝐭 𝚌𝐨𝚖𝐞 𝚊𝐫𝚘𝐮𝚗𝐝. " .ೀ}}$$
 
 <p align="center">
+<img src="https://hits.sh/github.com/AcxerSonnellino.svg?label=Jackpot%20!%20%F0%9F%90%BE&extraCount=1870&color=76c1cd&labelColor=f1feff" />
+</p>
+
+<p align="center">
   <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/a2456978f91b77ad5f418cad1ce4b223e0374217/tumblr_inline_pdzcjb2kTA1v11djx_500.gif" width="100" />
   <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/a2456978f91b77ad5f418cad1ce4b223e0374217/tumblr_inline_pdzcepDGgt1v11djx_500.gif" width="85" />
 </p>
