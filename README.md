@@ -6,9 +6,12 @@ $$\color{#8eb6b9}{\text{⭑𓂃 " 𝚈𝐨𝚞 𝐦𝚒𝐠𝚑𝐭 𝚊𝐬 �
 </p>
 
 <p align="center">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/e9851af1ec82091ab34673e338c90d9b3a357529/tumblr_d0cee632d56c2adbadbc82179c66e9d5_a8586f26_75.gif" width="30" />
   <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/a2456978f91b77ad5f418cad1ce4b223e0374217/tumblr_inline_pdzcjb2kTA1v11djx_500.gif" width="100" />
   <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/a2456978f91b77ad5f418cad1ce4b223e0374217/tumblr_inline_pdzcepDGgt1v11djx_500.gif" width="85" />
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/0ee696b72b608327069640ef824615bd026d533e/tumblr_287d13cb87f6f46a872ba010276a6efc_a030fdc2_75.gif" width="30" />
 </p>
+
 
 <p align="center">
   <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/8e5fd7102075c5c2a9494ffe018eaa0268675b33/Untitled245_20260718144242.png" alt="Description" width="900">
