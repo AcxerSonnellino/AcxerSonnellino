@@ -11,7 +11,7 @@ $$\color{#8eb6b9}{\text{⭑𓂃 " 𝚈𝐨𝚞 𝐦𝚒𝐠𝚑𝐭 𝚊𝐬 �
   <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/1de0ccb65bf2a70b82fbbc5ac943b7cf769a265e/p767qt.gif" width="95" />
   <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/1de0ccb65bf2a70b82fbbc5ac943b7cf769a265e/stickers_4d594ea361aef7f4a25f4eb19d6807ab.gif" width="80" />
   <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/1de0ccb65bf2a70b82fbbc5ac943b7cf769a265e/stickers_31719a8a9031930560d865896fbf7e9e.gif" width="70" />
-  <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/a2456978f91b77ad5f418cad1ce4b223e0374217/tumblr_inline_pdzcjb2kTA1v11djx_500.gif" width="100" />
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/c35c64e0c3fe36521d90190132cd5f404dff041e/stickers_fdd18525c4002493c6d5a3449f0b98d4.gif" width="110" />
   <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/a2456978f91b77ad5f418cad1ce4b223e0374217/tumblr_inline_pdzcepDGgt1v11djx_500.gif" width="85" />
   <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/1de0ccb65bf2a70b82fbbc5ac943b7cf769a265e/stickers_c6eb8f15831bb3ec3abadb60d623026c.gif" width="85" />
   <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/0ee696b72b608327069640ef824615bd026d533e/tumblr_287d13cb87f6f46a872ba010276a6efc_a030fdc2_75.gif" width="30" />
