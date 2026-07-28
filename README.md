@@ -1,5 +1,8 @@
 <p align="center">
   $$\color{#eef7e2} \text{⊹ ࣪ "}$$ <a href=https://github.com/title-town>@title-town</a> $$\color{#eef7e2} \text{ρoᥒყ towᥒ's ᥣᥱoᥒ kᥱᥒᥒᥱdყ. " ˖ ໒꒱}$$
+  <p align="center">
+    $$\color{#67d0db} \text{⊹ ࣪ "}$$ <a href=https://github.com/pt-contributers>@pt-contributers</a> $$\color{#67d0db} \text{ρoᥒყ towᥒ's gυᥱst 1337. " ˖ ໒꒱}$$
+  
 
 <p align="center">
 <img src="https://hits.sh/github.com/AcxerSonnellino.svg?label=Jackpot%20!%20%F0%9F%90%BE&extraCount=1870&color=76c1cd&labelColor=f1feff" />
