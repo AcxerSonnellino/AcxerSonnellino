@@ -1,7 +1,5 @@
 <p align="center">
-  $$\color{#eef7e2} \text{⊹ ࣪ "}$$ <a href=https://github.com/title-town>@title-town</a> $$\color{#eef7e2} \text{ρoᥒყ towᥒ's ᥣᥱoᥒ kᥱᥒᥒᥱdყ. " ˖ ໒꒱}$$
-  <p align="center">
-    $$\color{#67d0db} \text{⊹ ࣪ "}$$ <a href=https://github.com/pt-contributers>@pt-contributers</a> $$\color{#67d0db} \text{ρoᥒყ towᥒ's gυᥱst 1337. " ˖ ໒꒱}$$
+  $$\color{#eef7e2} \text{⊹ ࣪ " bιg thᥲᥒks to : }$$ <a href=https://github.com/title-town>@title-town</a> <a href=https://github.com/pt-contributers>@pt-contributers</a> <a href=https://github.com/pt-walk-of-fame>@pt-walk-of-fame</a> <a href=https://github.com/pt-fashion>@pt-fashion</a> $$\color{#eef7e2} \text{. " ˖ ໒꒱}$$
   
 
 <p align="center">
