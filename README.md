@@ -1,5 +1,5 @@
 <p align="center">
-  $$\color{#eef7e2} \text{⊹ ࣪ " bιg thᥲᥒks to : }$$ <a href=https://github.com/title-town>@title-town</a> <a href=https://github.com/pt-contributers>@pt-contributers</a> <a href=https://github.com/pt-walk-of-fame>@pt-walk-of-fame</a> <a href=https://github.com/pt-fashion>@pt-fashion</a> <a href=https://github.com/pt-hall-of-media>@pt-hall-of-media</a> $$\color{#eef7e2} \text{. " ˖ ໒꒱}$$
+  $$\color{#eef7e2} \text{⊹ ࣪ " bιg thᥲᥒks to : }$$ <a href=https://github.com/title-town>@title-town</a> <a href=https://github.com/pt-contributers>@pt-contributers</a> <a href=https://github.com/pt-walk-of-fame>@pt-walk-of-fame</a> <a href=https://github.com/pt-fashion>@pt-fashion</a> <a href=https://github.com/pt-hall-of-media>@pt-hall-of-media</a> <a href=https://github.com/fans-town>@fans-town</a> $$\color{#eef7e2} \text{. " ˖ ໒꒱}$$
   
 
 <p align="center">
