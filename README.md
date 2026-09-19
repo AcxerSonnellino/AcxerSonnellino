@@ -1,6 +1,11 @@
-<p align="center">
-  $$\color{#eef7e2} \text{⊹ ࣪ " bιg thᥲᥒks to : }$$ <a href=https://github.com/title-town>@title-town</a> <a href=https://github.com/pt-contributers>@pt-contributers</a> <a href=https://github.com/pt-walk-of-fame>@pt-walk-of-fame</a> <a href=https://github.com/pt-fashion>@pt-fashion</a> <a href=https://github.com/pt-hall-of-media>@pt-hall-of-media</a> <a href=https://github.com/fans-town>@fans-town</a> <a href=https://github.com/pt-nominations>@pt-nominations</a> <a href=https://github.com/ponytownyumeshippers>@ponytownyumeshippers</a> <a href=https://github.com/pt-of-awesomeness>@pt-of-awesomeness</a> <a href=https://github.com/pt-loveforfictional>@pt-loveforfictional</a> <a href=https://github.com/pt-characters>@pt-characters</a> <a href=https://github.com/ponychievements>@ponychievements</a> <a href=https://github.com/ponytown-nominations>@ponytown-nominations</a> $$\color{#eef7e2} \text{. " ˖ ໒꒱}$$
-  
+<div align="center"> 
+<details>
+<summary> $$\color{#B8C3B3} \text{⊹ ࣪ " bιg thᥲᥒks to : }$$  </summary>
+
+<a href=https://github.com/title-town>@title-town</a> <a href=https://github.com/pt-contributers>@pt-contributers</a> <a href=https://github.com/pt-walk-of-fame>@pt-walk-of-fame</a> <a href=https://github.com/pt-fashion>@pt-fashion</a> <a href=https://github.com/pt-hall-of-media>@pt-hall-of-media</a> <a href=https://github.com/fans-town>@fans-town</a> <a href=https://github.com/pt-nominations>@pt-nominations</a> <a href=https://github.com/ponytownyumeshippers>@ponytownyumeshippers</a> <a href=https://github.com/pt-of-awesomeness>@pt-of-awesomeness</a> <a href=https://github.com/pt-loveforfictional>@pt-loveforfictional</a> <a href=https://github.com/pt-characters>@pt-characters</a> <a href=https://github.com/ponychievements>@ponychievements</a> <a href=https://github.com/ponytown-nominations>@ponytown-nominations</a> <a href=https://github.com/PT-FANtastic-Hall>@PT-FANtastic-Hall</a> <a href=https://github.com/forsakentown>@forsakentown</a> <a href=https://github.com/pt-of-forsaken>@pt-of-forsaken</a> <a href=https://github.com/ponytowncosplayers>@ponytowncosplayers</a> <a href=https://github.com/ponytown-yumes>@ponytown-yumes</a> <a href=https://github.com/ship-town>@ship-town</a> <a href=https://github.com/Ponytowns-rewards>@Ponytowns-rewards</a> <a href=https://github.com/style-town>@style-town</a> <a href=https://github.com/pt-heavyfictkin>@pt-heavyfictkin</a>
+
+
+</details>
 
 <p align="center">
 <img src="https://hits.sh/github.com/AcxerSonnellino.svg?label=Jackpot%20!%20%F0%9F%90%BE&extraCount=1870&color=76c1cd&labelColor=f1feff" />
