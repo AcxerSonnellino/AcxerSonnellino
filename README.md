@@ -7,8 +7,6 @@
 
 </details>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+QLD+Hand&letterSpacing=1px&duration=2000&pause=90&color=77CFD5&width=435&lines=Please+don't+go;I'll+eat+you+whole;I+love+you+so;I+love+you+so%2C+I+love+you+so." alt="Typing SVG" /></a>
 
 <p align="center">
 <img src="https://hits.sh/github.com/AcxerSonnellino.svg?label=Jackpot%20!%20%F0%9F%90%BE&extraCount=1870&color=76c1cd&labelColor=f1feff" />
@@ -28,7 +26,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/8e5fd7102075c5c2a9494ffe018eaa0268675b33/Untitled245_20260718144242.png" alt="Description" width="900">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/868f02ee39ceefd85d1293b67bc5f665a66e2a83/Untitled32_20261119191750.png" alt="Description" width="600">
 </p>
 
 
@@ -41,20 +39,9 @@ $$\color{#8eb6b9} \text{જ⁀➴⋆.˚ ᥴ+h , w2ι / ρυbᥣιᥴ ᥴhᥲt = 
 $$\color{#79a8ac}{\text{︵ 𝕤𝕪𝕤 . 𝕚𝕨𝕔𝕒𝕣𝕖 𝕨𝕙𝕖𝕟 𝕟𝕖𝕖𝕕𝕖𝕕. 𝚒𝐰𝚌 𝐮𝚗𝐝𝚎𝐫 𝟷𝟑 . ︵}}$$
 
 
-$$\color{#4d7f90}{\text{⋆✴︎˚｡⋆ . 𝚒 𝐝𝚒𝐬𝚕𝐢𝚔𝐞 𝚗𝐨𝚗𝐬𝚑𝐚𝚛𝐢𝚗𝐠 𝚢𝐮𝚖𝐞𝚜𝐡𝚒𝐩𝚙𝐞𝚛 𝐛𝚞𝐭 𝚒'𝚕𝐥 𝚜𝐭𝚒𝐥𝚕 𝐥𝚘𝐯𝚎 𝐲𝚘𝐮𝚛 𝐲𝚞𝐦𝚎 ! ⋆˚࿔}}$$
-$$\color{#3d6585}{\text{.☘︎ ݁˖ ᥲ shᥲrιᥒg + ρoᥣყ ყυmᥱshιρρᥱr ( kᥒowᥒ ᥲs ყυmᥱ wιth dιffᥱrᥱᥒt fᥲᥒdom f/o ) ˖᯽ ݁˖· ─ }}$$
-
 <p align="center">
   <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/2f3352c7cca5770e97078e6a4ea6dc10480fc860/d56b6f56.gif" alt="Centered Image" width="600">
 </p>
-
-$$\color{#B8C3B3} \text{ ݁ ˖Ი𐑼ֶָ֢ . mყ mᥲιᥒ fᥲvoυrιtᥱ / kιᥒ ! ֺּׅ𓏽⑅}$$
-$$\color{#4d7f90}{\text{゛ ᢉ𐭩 ' 𝚑𝐚𝚟𝐞 𝚖𝐨𝚛𝐞 𝚋𝐮𝚝 𝐰𝚒𝐥𝚕 𝐚𝚍𝐝𝚎𝐝 𝚒𝐧 𝚜𝐭𝚛𝐚𝚠𝐩𝚊𝐠𝚎 , ⭑.ᐟ}}$$
-
-<p align="center">
-  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/7feff77225f63ab841b0eb5f06f888bb6676ed82/Untitled245_20260718150717.png" alt="Centered Image" width="700">
-</p>
-
 
 
 <p align="center"> <a href="https://acxersaurus.atabook.org/">
@@ -63,11 +50,3 @@ $$\color{#4d7f90}{\text{゛ ᢉ𐭩 ' 𝚑𝐚𝚟𝐞 𝚖𝐨𝚛𝐞 𝚋𝐮
   </a>   <a href="https://pronouns.cc/@Acxersaurus">
   <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/07de4738c03359bd48f4b54ab2a263a6508f6f60/Untitled245_20260719100352.png" width="300">
 </a>
-
-  
-$$\color{#79a8ac} \text{.ೃ࿔ 𝕤𝕥𝕣𝕒𝕨𝕡𝕒𝕘𝕖 𝕠𝕟 𝕨𝕚𝕡 / 𝕣𝕖𝕞𝕒𝕜𝕚𝕟𝕘 ── .✦}$$
-
-<p align="center">
-  <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/a2456978f91b77ad5f418cad1ce4b223e0374217/tumblr_pe3ahvHP4n1xsk4lxo2_100.png" width="100" />
-  <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/a2456978f91b77ad5f418cad1ce4b223e0374217/92b0c254.png" width="100" />
-</p>
