@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/868f02ee39ceefd85d1293b67bc5f665a66e2a83/Untitled32_20261119191750.png" alt="Description" width="600">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/868f02ee39ceefd85d1293b67bc5f665a66e2a83/Untitled32_20261119191750.png" alt="Description" width="400">
 </p>
 
 
